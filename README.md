@@ -3,7 +3,7 @@
 Blog Generation using LLAMA 2
 
 
-##Introduction
+## Introduction
 
 This project demonstrates how to create a blog generation application using LLAMA 2, a large language model from Meta.
 
