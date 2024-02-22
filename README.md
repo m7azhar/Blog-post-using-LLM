@@ -4,10 +4,9 @@ Blog Generation using LLAMA 2
 
 
 ## Introduction
-
 This project demonstrates how to create a blog generation application using LLAMA 2, a large language model from Meta.
 
-Requirements
+## Requirements
 
 Python 3.6 or later
 pip
@@ -41,7 +40,4 @@ Note:
 
 This project is for educational purposes only.
 You will need to obtain an API key from Meta to use LLAMA 2.
-Additional Notes
 
-This project can be extended to support different writing styles and functionalities.
-You can explore fine-tun
